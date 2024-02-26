@@ -16,7 +16,17 @@ set build as :
 
 ## Folder Structure
 
-- [**app**](app)
-- [**dist**](dist)
+.
+|-- README.md
+|-- app
+| |-- README.md
+| `-- index.js
+|-- dist
+|   |-- README.md
+|   |-- bundle.js
+|   `-- index.html
+|-- package-lock.json
+|-- package.json
+`-- webpack.config.js
 
 <!--  -->
