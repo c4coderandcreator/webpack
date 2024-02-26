@@ -13,3 +13,10 @@ set build as :
 ## For Mac
 
 "build": "NODE_ENV='production' webpack",
+
+<!-- Folder Structure -->
+
+- [**app**](app)
+- [**dist**](dist)
+
+<!--  -->
