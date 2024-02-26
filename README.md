@@ -14,7 +14,7 @@ set build as :
 
 "build": "NODE_ENV='production' webpack",
 
-<!-- Folder Structure -->
+## Folder Structure
 
 - [**app**](app)
 - [**dist**](dist)
