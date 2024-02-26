@@ -16,6 +16,7 @@ set build as :
 
 ## Folder Structure
 
+```
 .
 |-- README.md
 |-- app
@@ -30,3 +31,4 @@ set build as :
 `-- webpack.config.js
 
 <!--  -->
+```
